@@ -1,0 +1,5 @@
+class Akmal
+
+@@all
+
+end
